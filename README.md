@@ -2,7 +2,7 @@
 
 A modern, responsive Tic Tac Toe game with AI opponent and multiplayer options, built with vanilla JavaScript and Tailwind CSS.
 
-![Tic Tac Toe Game](https://i.imgur.com/example.png)
+![Tic Tac Toe Game]([https://i.imgur.com/example.png](https://a.imglink.io/SqQSZ.png))
 
 ## Play Now
 
