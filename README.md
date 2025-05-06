@@ -10,7 +10,7 @@ A modern, responsive Tic Tac Toe game with AI opponent and multiplayer options, 
 
 You can play the game directly in your browser:
 
-1. **Online Demo**: [Play Tic Tac Toe](https://tictactoe-ai-game.netlify.app) (Example link - deploy your own version)
+1. **Online Demo**: [Play Tic Tac Toe](https://tictactoe-ai-game.netlify.app)
 
 2. **Local Development**:
    ```bash
