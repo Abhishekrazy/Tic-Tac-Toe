@@ -13,7 +13,7 @@ You can play the game directly in your browser:
 2. **Local Development**:
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/tictactoe-ai.git
+   git clone https://github.com/Abhishekrazy/Tic-Tac-Toe.git
    
    # Navigate to the project directory
    cd tictactoe-ai
